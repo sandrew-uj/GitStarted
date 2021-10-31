@@ -6,7 +6,7 @@ public class Sum {
         int a, b;
         a = sc.nextInt();
         b = sc.nextInt();
-        System.out.println(a + b);
-        System.out.println(a - b);
+        System.out.println(a + b + 1);
+        System.out.println(a - b + "\n");
     }
 }
